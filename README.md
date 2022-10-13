@@ -9,7 +9,7 @@
 
 - 🔭 I just finished working on [To Do](https://github.com/MubarakMKay/To-Do)
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Node Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MubarakMKay](https://github.com/MubarakMKay)
 
