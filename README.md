@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/mubarak_mkay" target="blank"><img src="https://img.shields.io/twitter/follow/mubarak_mkay?logo=twitter&style=for-the-badge" alt="mubarak_mkay" /></a> </p>
 
-- 🔭 I just finished working on [To Do](https://github.com/MubarakMKay/To-Do)
+- 🔭 I am currently freelancing and working as a software intern developer at platr
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MubarakMKay](https://github.com/MubarakMKay)
 
-- 💬 Ask me about **React Js, Vanilla javascript, Bootstrap v5, Html and CSS**
+- 💬 Ask me about **React Js, Angular, SCSS, Vanilla javascript, Bootstrap v5, Html and CSS**
 
 - 📫 How to reach me **mubi4lyf@gmail.com**
 
